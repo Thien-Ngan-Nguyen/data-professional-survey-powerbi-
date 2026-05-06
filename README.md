@@ -1,20 +1,23 @@
 # Data Professional Survey Dashboard (Power BI)
 
 ## 📊 Project Overview
-This project is a Power BI dashboard developed as a guided learning exercise using a public dataset from GitHub. The project was built following a tutorial by Alex The Analyst, with additional exploration and customisation to strengthen data visualisation and business intelligence skills.
+This Power BI dashboard was developed as a guided learning project using a public dataset from GitHub, following a tutorial by Alex The Analyst. The project was further customised to explore key insights in the data profession landscape.
 
-The goal of this project is to analyse trends in the data profession, including job roles, salary levels, and job satisfaction.
-
----
-
-## 🎯 Objectives
-- Analyse salary distribution across different data-related roles  
-- Explore job satisfaction and work-life balance trends  
-- Identify key factors influencing career outcomes in the data industry  
+The dashboard analyses survey responses from data professionals, focusing on salary, job roles, skills, and career satisfaction.
 
 ---
 
-## 🛠 Tools & Technologies
+## 🎯 Key Insights Explored
+- Average salary by job title across data roles  
+- Country distribution of survey respondents  
+- Most preferred programming languages in data roles  
+- Perceived difficulty of breaking into the data industry  
+- Job satisfaction (salary & work-life balance)  
+- Average age of professionals in the field  
+
+---
+
+## 🛠 Tools Used
 - Power BI  
 - Power Query (data cleaning & transformation)  
 - Data visualisation & dashboard design  
@@ -22,32 +25,23 @@ The goal of this project is to analyse trends in the data profession, including 
 ---
 
 ## 📈 Dashboard Features
-- Interactive filters by role, experience level, and country  
-- Salary comparison across different data professions  
-- Job satisfaction and work-life balance analysis  
-- KPI cards and visual storytelling dashboards  
+- Interactive filters by country and job title  
+- Comparative analysis of salary across roles  
+- Visual breakdown of skill preferences (programming languages)  
+- KPI cards for satisfaction, salary, and demographics  
 
 ---
 
 ## 📂 Dataset
 - Public dataset sourced from GitHub (Data Professional Survey)  
-- Used as part of a guided learning project  
-- No private or proprietary data used  
+- Used for educational and guided learning purposes  
 
 ---
 
-## 💡 Key Learnings
-- Improved data cleaning and transformation skills in Power BI  
-- Developed ability to design interactive dashboards for business insights  
-- Strengthened understanding of data storytelling and visual communication  
+## 💡 Learning Outcome
+Strengthened skills in Power BI, data visualisation, and translating survey data into business insights.
 
 ---
 
-## ⚠️ Disclaimer
-This project was completed as a guided learning exercise following a tutorial by Alex The Analyst, with additional independent customisation and analysis.
-
----
-
-📌 Author: Thien Ngan Nguyen  
-📎 Project Type: Guided Data Analytics Project  
+📌 Project Type: Guided Data Analytics Project  
 📊 Focus: Power BI, Data Visualisation, Business Intelligence
